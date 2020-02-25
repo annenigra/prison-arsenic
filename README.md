@@ -1,8 +1,7 @@
 # prison-arsenic
 <b>Arsenic in US correctional facility drinking water, 2006-2011</b>
 
-<b>Introduction.</b>
-
+<b>Introduction</b>
 Little is known about drinking water quality in US correctional facilities, likely the sole water source for incarcerated persons already at disproportionate risk of numerous adverse health outcomes including premature mortality.<sup>1</sup> Arsenic is highly toxic and carcinogenic for humans.<sup>2,3</sup> The US Environmental Protection Agency (EPA) maximum contaminant level (MCL) for arsenic in public drinking water systems is 10 µg/L. Our objective was to estimate drinking water arsenic exposure in US correctional facilities to determine the risk for chronic, elevated water arsenic exposure among the incarcerated compared to the non-incarcerated US population. Using the most recent publically available EPA data, we compared distributions of water arsenic concentrations for all community water systems (CWSs) versus CWSs exclusively serving correctional facilities, separately for the Southwestern US (where groundwater arsenic concentrations are relatively high4) and the non-Southwestern US.
 
 
