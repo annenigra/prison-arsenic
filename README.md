@@ -10,3 +10,5 @@ Little is known about the quality of drinking water in US correctional facilitie
 
 This code recreates the analysis published in <i>Environmental Research</i> in 2020.
 
+Please contact Anne Nigra at aen2136@cumc.columbia.edu for assistance/information
+
